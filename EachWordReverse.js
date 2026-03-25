@@ -8,3 +8,19 @@ function reverseEachWord(str) {
 }
 
 console.log(reverseEachWord("hello world"));
+
+function RCB(){
+  console.log("Bengalur");
+}
+
+function DC(){
+  console.log("Delhi");
+}
+
+function KKR(){
+  console.log("Kolkata");
+}
+
+function RR(){
+  console.log("Rajasthan");
+}
