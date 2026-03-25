@@ -20,3 +20,15 @@ function CSK(){
 function KXIP(){
   console.log("Punjab");
 }
+
+function RCB(){
+  console.log("Bengalur");
+}
+
+function DC(){
+  console.log("Delhi");
+}
+
+function KKR(){
+  console.log("Kolkata");
+}
