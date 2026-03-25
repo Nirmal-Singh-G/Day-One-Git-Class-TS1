@@ -9,18 +9,6 @@ function reverseEachWord(str) {
 
 console.log(reverseEachWord("hello world"));
 
-<<<<<<< HEAD
-function RCB(){
-  console.log("Bengalur");
-}
-
-function DC(){
-  console.log("Delhi");
-}
-
-function KKR(){
-  console.log("Kolkata");
-=======
 function MI(){
   console.log("Mumbai Indians");
 }
@@ -31,5 +19,16 @@ function CSK(){
 
 function KXIP(){
   console.log("Punjab");
->>>>>>> ff92460e07c6298120cb1102700d90f62b5f73fa
+}
+
+function RCB(){
+  console.log("Bengalur");
+}
+
+function DC(){
+  console.log("Delhi");
+}
+
+function KKR(){
+  console.log("Kolkata");
 }
