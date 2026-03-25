@@ -20,7 +20,3 @@ function DC(){
 function KKR(){
   console.log("Kolkata");
 }
-
-function RR(){
-  console.log("Rajasthan");
-}
