@@ -4,3 +4,15 @@ function isPalindrome(str) {
 }
 
 console.log(isPalindrome("madam"));
+
+function tamilnadu(){
+    console.log("tamil");
+}
+
+function andhra(){
+    console.log("telugu");
+}
+
+function kerala(){
+    console.log("Malayalam");
+}
