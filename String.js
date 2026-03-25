@@ -3,3 +3,15 @@ function reverseString(str) {
 }
 
 console.log(reverseString("mapla")); 
+
+function Ind(){
+    console.log("Indian");
+}
+
+function Ger(){
+    console.log("Germany");
+}
+
+function Eng(){
+    console.log("England");
+}
